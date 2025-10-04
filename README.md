@@ -1,5 +1,6 @@
 # Hotel-Booking-System
-Lab 02
+Lab 02  
+
 git commit -m "HOT-1 Khách hàng mới đăng ký tài khoản"  
 
 git commit -m "HOT-2 Khách hàng cũ đăng nhập hệ thống"  
